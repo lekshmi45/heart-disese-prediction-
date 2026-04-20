@@ -134,6 +134,6 @@ heart-disease-prediction/
 ## 👩‍💻 Author
 
 **Lekshmi S.S** — ML Engineer | EEG Signal Processing | Biomedical AI  
-📍 CDAC Trivandrum, Kerala, India  
+  
 🔗 [LinkedIn](https://www.linkedin.com/in/lekshmi-s-s-506701216)  
 🐙 [GitHub](https://github.com/lekshmi45)
